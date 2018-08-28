@@ -637,6 +637,5 @@
 		<KeyWord name="v-else" />
 		<KeyWord name="v-model" />
 		<KeyWord name="v-for" />
-		<KeyWord name="v-bind" />
 	</AutoComplete>
 </NotepadPlus>
