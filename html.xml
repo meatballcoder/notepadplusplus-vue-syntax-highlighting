@@ -630,7 +630,13 @@
 		<KeyWord name="xmlns" />
 		<KeyWord name="yellow" />
 		<KeyWord name="z-index" />
-				<KeyWord name="v-on" />
+		<KeyWord name="v-on" />
+		<KeyWord name="v-bind" />
+		<KeyWord name="v-if" />
+		<KeyWord name="v-else-if" />
+		<KeyWord name="v-else" />
+		<KeyWord name="v-model" />
+		<KeyWord name="v-for" />
 		<KeyWord name="v-bind" />
 	</AutoComplete>
 </NotepadPlus>
