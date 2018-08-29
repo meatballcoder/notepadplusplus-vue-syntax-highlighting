@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<NotepadPlus>
+    <AutoComplete language="vue">
+        <Environment ignoreCase="yes" startFunc="(" stopFunc="" paramSeparator="," terminal="," additionalWordChar="-'=" />
+        <KeyWord name="v-for='" func="yes">
+            <Overload retVal="" >
+                <Param name="item" />
+                <Param name="index) " />
+				<Param name="(no comma) [in items]" />
+            </Overload>
+        </KeyWord>>
+		<KeyWord name="v-text" />
+		<KeyWord name="v-html" />
+		<KeyWord name="v-if" />
+		<KeyWord name="v-else" />
+		<KeyWord name="v-else-if" />
+		<KeyWord name="v-for" />
+		<KeyWord name="v-on:" />
+		<KeyWord name="v-bind:" />
+		<KeyWord name="v-model" />
+		<KeyWord name="v-pre" />
+		<KeyWord name="v-cloak" />
+		<KeyWord name="v-once" />
+		<KeyWord name="slot" />
+		<KeyWord name="slot-scope" />
+		<KeyWord name=":is" />
+		<KeyWord name="scope" />
+		<KeyWord name=":key" />
+		<KeyWord name="ref" />
+		<Keyword name="template" />
+		<KeyWord name="child-component"/>
+		<KeyWord name="vm.$data" />
+		<KeyWord name="vm.$props" />
+		<KeyWord name="vm.$el" />
+		<KeyWord name="vm.$options" />
+		<KeyWord name="vm.$parent" />
+		<KeyWord name="vm.$root" />
+		<KeyWord name="vm.$children" />
+		<KeyWord name="vm.$slots" />
+		<KeyWord name="vm.$scopedSlots" />
+		<KeyWord name="vm.$refs" />
+		<KeyWord name="vm.$isServer" />
+		<KeyWord name="vm.$attrs" />
+		<KeyWord name="vm.$listeners" />
+		<KeyWord name="vm.$watch" />
+		<KeyWord name="vm.$set" />
+		<KeyWord name="vm.$delete" />
+		<KeyWord name="vm.$on" />
+		<KeyWord name="vm.$once" />
+		<KeyWord name="vm.$off" />
+		<KeyWord name="vm.$emit" />
+		<KeyWord name="vm.$mount" />
+		<KeyWord name="vm.$forceUpdate" />
+		<KeyWord name="vm.$nextTick" />
+		<KeyWord name="vm.$destroy" />
+		<KeyWord name="vm.$isServer" />
+		<KeyWord name="vm.$attrs" />
+		<KeyWord name="vm.$listeners" />
+		<KeyWord name="vm.$watch" />
+		<KeyWord name="vm.$data" />
+    </AutoComplete>
+</NotepadPlus>
