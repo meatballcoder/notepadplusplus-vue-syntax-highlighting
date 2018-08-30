@@ -8,7 +8,7 @@
                 <Param name="index) " />
 				<Param name="(no comma) [in items]" />
             </Overload>
-        </KeyWord>>
+        </KeyWord>
 		<KeyWord name="v-text" />
 		<KeyWord name="v-html" />
 		<KeyWord name="v-if" />
